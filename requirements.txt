@@ -1,0 +1,5 @@
+# requirements.txt
+
+typer>=0.12
+tabulate>=0.9
+tqdm>=4.66
